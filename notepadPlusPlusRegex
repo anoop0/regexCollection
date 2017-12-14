@@ -1,0 +1,1 @@
+[a-z_A-Z0-9 ]+=[ ]*  : Select all the text (a to z, underscore, A to Z, numbers and spaces) before '=' including '=' . 
