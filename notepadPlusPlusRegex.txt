@@ -1,3 +1,3 @@
 notepad++ delete before a character
-[a-z_A-Z0-9 ]+=[ ]*  : Select all the text (a to z, underscore, A to Z, numbers and spaces) before '=' including '=' . 
+** [a-z_A-Z0-9 ]+=[ ]* ** : Select all the text (a to z, underscore, A to Z, numbers and spaces) before '=' including '=' . 
 Uses: To select or replace from given text data.
